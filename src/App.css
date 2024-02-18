@@ -1,0 +1,14 @@
+@media screen and (max-width: 500px) {
+  .container{
+    min-width:90%;
+    font-size:10px;
+  }
+  
+}
+@media screen and (max-width: 300px) {
+  .container{
+    min-width:98%;
+    font-size:10px;
+  }
+  
+}
